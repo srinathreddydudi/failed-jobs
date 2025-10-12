@@ -1,3 +1,5 @@
+> [!WARNING]
+> This package moved to [binarybuilds/filament-failed-jobs](https://github.com/binarybuilds/filament-failed-jobs)
 # A Filament Plugin to Retry and manage failed jobs
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/srinathreddydudi/failed-jobs.svg?style=flat-square)](https://packagist.org/packages/srinathreddydudi/failed-jobs)
