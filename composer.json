@@ -4,6 +4,7 @@
     "keywords": [
         "srinathreddydudi", "laravel", "failed jobs", "queued jobs", "filament"
     ],
+    "abandoned" : "binarybuilds/filament-failed-jobs",
     "homepage": "https://github.com/srinathreddydudi/failed-jobs",
     "support": {
         "issues": "https://github.com/srinathreddydudi/failed-jobs/issues",
